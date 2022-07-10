@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+# Portifólio de Gabriel Vargas Bento de Souza
 
-You can use the [editor on GitHub](https://github.com/gabrielvargas00/LIP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Apresentação
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Seja bem-vindo à página do meu portifólio, contendo os projetos e os trabalhos desenvolvidos na disciplina "Laboratório de Iniciação à Programação" (LIP) durante o Primeiro Período do curso Ciência da Computação.
 
-### Markdown
+## Projetos
+
+### dd
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
